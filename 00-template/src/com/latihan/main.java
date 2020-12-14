@@ -13,8 +13,8 @@ class Mahasiswa{
 
 
 
-public class main {
-    public static void main(String[] args) throws Exception {
+public class Main {
+    public static void main(String[] args) {
         // instansiasi / membuat objek
         Mahasiswa mahasiswa1 = new Mahasiswa();
         mahasiswa1.nama= "Roby";

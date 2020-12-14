@@ -1,6 +1,8 @@
 {
     "editor.fontSize": 14,
     "window.zoomLevel": 0,
-    "workbench.colorTheme": "Default High Contrast",
-    "workbench.iconTheme": "vs-seti"
+    "workbench.colorTheme": "Ayu Dark",
+    "workbench.iconTheme": "material-icon-theme"
+    
+    
 }

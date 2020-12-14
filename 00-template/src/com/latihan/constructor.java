@@ -38,10 +38,15 @@ public class constructor {
         
         // polos objekpolos = new polos();
         // System.out.println(objekpolos.dataString);
-        Siswa mahasiswa1 = new Siswa("roby", "A2.1900158","TI");
-        Siswa mahasiswa2 = new Siswa("otong","A2.00001","SI");
+        Siswa objek1 = new Siswa("roby", "A2.1900158","TI");
+        Siswa objek2 = new Siswa("otong","A2.00001","SI");
+        objek1.nama="fuad";
+        objek2.nama="mh ihsan";
+        System.out.println(objek1.nama);
 
 
+
+        
 
      
 
